@@ -43,8 +43,8 @@ resources:
     cpu: 100m
     memory: 128Mi
   requests:
-    cpu: 100m
-    memory: 128Mi
+    cpu: "0.05"
+    memory: 50Mi
 
 service:
   type: NodePort
