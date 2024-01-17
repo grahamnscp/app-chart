@@ -1,2 +1,2 @@
 # app-chart
-Sample help app chart for hello-app
+Sample helm app chart for hello-app
